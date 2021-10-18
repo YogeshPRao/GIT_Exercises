@@ -1,0 +1,7 @@
+-----EXERCISES-----
+1. configure email : git config user.email <mail.id>
+   configure name : git config user.name <name>
+2. Cloning the empty repository : git clone <url> 
+   Note : A github account has been created and an empty repository has been cre   ated with the name "GIT_Exercises". It has been added to the local system.
+3. Added two directories called "Path_Print" and "Summer"
+4. 
