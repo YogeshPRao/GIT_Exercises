@@ -7,6 +7,6 @@
 4. The different commands given have been tried out and their arguments understood.
 5. Creating and branching to a new branch : git checkout -b <branchname>
 6. Resolving merge conflicts : Need to manually resolve the two files. To do this, edit the files and remove the unwanted bits. These files are then individually added to resolve the conflicts, committed and finally the branch can be merged.
-
-
-
+7. The difference between pull and fetch commands :
+   fetch : the fetch command only fetches the files from the remote repository. It does not merge the files to the current branch from which the fetch was executed. The files have to be explicitly merged by the developer.
+   pull : the pull command does two things at once - fetches the files from the remote repository and merges them to the current branch from which the pull command was executed. 
