@@ -1,9 +1,12 @@
 -----EXERCISES-----
 1. configure email : git config user.email <mail.id>
    configure name : git config user.name <name>
-2. Cloning the empty repository : git clone <url> 
+2. Cloning the empty repository : git clone <url/ssh> 
    Note : A github account has been created and an empty repository has been cre   ated with the name "GIT_Exercises". It has been added to the local system.
 3. Added two directories called "Path_Print" and "Summer"
 4. The different commands given have been tried out and their arguments understood.
 5. Creating and branching to a new branch : git checkout -b <branchname>
-6. 
+6. Resolving merge conflicts : Need to manually resolve the two files. To do this, edit the files and remove the unwanted bits. These files are then individually added to resolve the conflicts, committed and finally the branch can be merged.
+
+
+
