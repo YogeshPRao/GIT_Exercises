@@ -4,4 +4,6 @@
 2. Cloning the empty repository : git clone <url> 
    Note : A github account has been created and an empty repository has been cre   ated with the name "GIT_Exercises". It has been added to the local system.
 3. Added two directories called "Path_Print" and "Summer"
-4. 
+4. The different commands given have been tried out and their arguments understood.
+5. Creating and branching to a new branch : git checkout -b <branchname>
+6. 
